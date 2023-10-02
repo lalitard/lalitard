@@ -9,7 +9,7 @@ proyectos y mis intereses.
 * Nombre: Luis Adrián Litardo Calderón
 * Ocupación: Estudiante de Ing. En Sistemas
 * Lugar de residencia: Guayaquil
-* Sitio web: Proyectos y aplicaciones
+* Sitio web: Proyectos y aplicacione
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
