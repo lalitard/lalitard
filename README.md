@@ -6,11 +6,13 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Luis Adrián Litardo Calderón]
-* Ocupación: [Estudiante de Ing. En Sistemas]
-* Lugar de residencia: [Guayaquil]
-* Sitio web: [Tu sitio web]
+* Nombre: Luis Adrián Litardo Calderón
+* Ocupación: Estudiante de Ing. En Sistemas
+* Lugar de residencia: Guayaquil
+* Sitio web: Proyectos y aplicaciones
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses]
+* Nuevas tecnologías
+* Deportes
+* Inteligencia Artificial
