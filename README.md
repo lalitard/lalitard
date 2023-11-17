@@ -1,4 +1,4 @@
-<p align="center"><a href="https://rsgarcia0203.github.io"><img width="40%" src="developeradri.png" /></a></p>
+<p align="center"><a href="https://rsgarcia0203.github.io"><img width="40%" src="" /></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrián Litardo</h1>
 
