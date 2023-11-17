@@ -1,6 +1,6 @@
-<p align="center"><a href="https://rsgarcia0203.github.io"><img width="40%" src="./assets/gh_profile_logo.png" /></a></p>
+<p align="center"><a href="https://rsgarcia0203.github.io"><img width="40%" src="developeradri.png" /></a></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ronny García</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrián Litardo</h1>
 
 <p align="center">
   <a href="#"><img align="center" width="500px" height="320px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/></a>
