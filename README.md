@@ -10,7 +10,7 @@
 <br/>
 
 
-## **🙋‍♂️ About Me**
+## **🧑‍💻 About Me**
 
 <p align="justify">
 Hi, I am Ronny García. Current back-end developer freelance from Ecuador. I spend my time on personal projects and learning more about back-end and how to improve my skills. I am passionate about building accessible, user-friendly websites and web applications. My skills include HTML, CSS, Java, Python, GIT, Github, Netlify. However, I am constantly learning and am open to new technologies. If you think I would be a great fit for your team feel free to contact me so we can chat.</p>
