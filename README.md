@@ -1,9 +1,9 @@
-<p align="center"><a href="https://rsgarcia0203.github.io"><img width="40%" src="" /></a></p>
+<p align="center"><a href="https://rsgarcia0203.github.io"><img width="40%" src="dev_adri.png" /></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrián Litardo</h1>
 
 <p align="center">
-  <a href="#"><img align="center" width="500px" height="320px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/></a>
+  <a href="#"><img align="center" width="500px" height="320px" src="programmerwriting.gif"/></a>
   <h3 align="center">I am passionate about building accessible, user-friendly websites and web applications.</h3>
 <p/>
 
