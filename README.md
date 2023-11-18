@@ -16,6 +16,7 @@
 Hi, I am Adrián Litardo. Current back-end developer freelance from Ecuador. I am a proactive person and passionate about technology, always looking to keep up to date with the latest trends and tools in the field of programming. Possessing excellent analytical and technical skills and impeccable coding ability, I am able to execute sections of code as required without errors.I am able to effectively manage and prioritize my time and juggle different projects at the same time. If you think I would be a great fit for your team feel free to contact me so we can start work.</p>
 
 
+
 - 🔭 I’m currently working on becoming a Full Stack Developer.
 
 - 📈 Design and management of databases, development of web pages and writer applications
