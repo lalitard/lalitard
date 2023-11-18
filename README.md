@@ -23,7 +23,7 @@ Hi, I am Adrián Litardo. Current back-end developer freelance from Ecuador. I a
 
 - 🌱 I’m currently learning **Angular** and **ARP.NET**, and always learning **Java**
   
-- 🦅 Belonging to the low percentage of developers who have knowledge of swift
+- 🦅 Belonging to the low percentage of developers who have knowledge of **Swift**
 
 - ❤️ My favorite languages are Java , Swift and Python. I like to experiment with the Python opencv library to design new projects
 
@@ -99,11 +99,9 @@ Hi, I am Adrián Litardo. Current back-end developer freelance from Ecuador. I a
 ## **👯 Connect with me:**
 
 <p align="center">  
-  <a href = "https://www.linkedin.com/in/rsgarcia0203/"><img alt="Ronny García | LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "hhttps://www.twitter.com/ronny_garcia19"><img  alt="Ronny García | Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href = "https://www.instagram.com/ronny.sgz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href = "https://www.youtube.com/channel/UCfH_seToiRmeuyc_WpuXI4A"><img alt="Ronny García | Youtube" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="Old youtube channel"/></a>
-  <a href = "https://discord.gg/UgrfaY8u/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+  <a href = "www.linkedin.com/in/adrián-litardo"><img alt="Adrián Litardo | LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = ""><img  alt="Adrián Litardo | Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href = "https://www.instagram.com/adrii.lit"><img alt="Adrián Litardo | Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 <br />
