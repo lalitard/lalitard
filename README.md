@@ -86,11 +86,11 @@ Hi, I am Adrián Litardo. Current back-end developer freelance from Ecuador. I a
 
 ## **🌎 Recent Projects:** 
 
-- <a href="https://lalitard.github.io/Curriculum/"> Curriculum Vitae with HTML and CSS</a>
+- <a href="https://lalitard.github.io/landing/"> 🦾 ShieldX Antivirus (landing page personalized)</a>
 
-- 
+- <a href="https://lalitard.github.io/Curriculum/"> 📑 Curriculum Vitae of Developer Adri</a>
   
-- 
+- <a href="https://lalitard.github.io/dashboard/"> 🌅 Weather Dashboard </a>
   
 <br/>
 
