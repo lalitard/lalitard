@@ -27,21 +27,18 @@ Hi, I am Adrián Litardo. Current back-end developer freelance from Ecuador. I a
 
 - ❤️ My favorite languages are Java , Swift and Python. I like to experiment with the Python opencv library to design new projects
 
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
-- 💬 Ask me about anything [here](https://github.com/rsgarcia0203/rsgarcia0203/issues)
+- 💬 Ask me about anything [here](https://github.com/lalitard/lalitard/issues)
 
 - 📫 How to contact me: **lalitard@espol.edu.ec**
 
 <br/>
 
-## Skills
-- 👨‍💻 TypeScript, JavaScript, Node, PHP, C#, Go, Python, Java
-- ⚙️ React, Redux, Angular, Express, Nest.JS, Laravel, Symfony, Code Igniter, Xamarin, MAUI, .Net, Flask, Apollo, Graphql, Jwt
-- 👁️ HTML, CSS, Styled Componentes, Gsap, Framer Motion, MaterialUI, Bootstrap
-- 💽 MongoDB, MySQL, Sql Server, PostgreSQL, Neo4j
-- :busts_in_silhouette: Jenkins, Git, Github, GitLab, Docker
+## **🏋‍♂ Skills**
+- 👨‍💻 TypeScript, JavaScript, NodeJS, C#, Go, Python, Java, Swift
+- ⚙️ React, Angular, Express, Nest.JS, .Net, Graphql, Jwt
+- 👁️ HTML, CSS, Styled Componentes, Bootstrap
+- 💽 MongoDB, MySQL, Sql Server, PostgreSQL
+- :busts_in_silhouette: Jenkins, Git, Github, GitLab,
 - :recycle: Jest, PHP Unit
 
 </br>
