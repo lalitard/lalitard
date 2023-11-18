@@ -77,7 +77,7 @@ Hi, I am Adrián Litardo. Current back-end developer freelance from Ecuador. I a
 
 <p align="center">
     <a href="https://github.com/D3press3dd/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ronny García's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rsgarcia0203&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ronny García's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&"/>
     </a>
 </p>
 
@@ -87,16 +87,14 @@ Hi, I am Adrián Litardo. Current back-end developer freelance from Ecuador. I a
 ## **📈 My GitHub stats:**
 
 <p align="center">
-  <a href="https://github.com/rsgarcia0203/github-readme-stats"><img alt="Ronny García's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rsgarcia0203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/rsgarcia0203/github-readme-stats"><img alt="Ronny García's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsgarcia0203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/lalitard/github-readme-stats"><img alt="Adrián Litardo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lalitard&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/lalitard/github-readme-stats"><img alt="Adrián Litardo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitard&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
   
-<!--a href="https://github.com/D3press3dd/github-readme-activity-graph"><img alt="Ronny García's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rsgarcia0203&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a-->
-
 <br />
 
 
-## **👯 Connect with me:**
+## **🤝 Connect with me:**
 
 <p align="center">  
   <a href = "www.linkedin.com/in/adrián-litardo"><img alt="Adrián Litardo | LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -107,9 +105,9 @@ Hi, I am Adrián Litardo. Current back-end developer freelance from Ecuador. I a
 <br />
 
 
-## ❤ Views and Followers
+## **👁️ Views and Followers**
 
 <p align="center">  
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=rsgarcia0203"> </a>
-<a href="https://github.com/rsgarcia0203?tab=followers"><img src="https://img.shields.io/github/followers/rsgarcia?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=adrianlitardo"> </a>
+<a href="https://github.com/lalitard?tab=followers"><img src="https://img.shields.io/github/followers/lalitard?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
