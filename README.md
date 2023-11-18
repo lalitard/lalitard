@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#"><img align="center" width="500px" height="320px" src="programmerwriting.gif"/></a>
-  <h3 align="center">I am passionate about building accessible, user-friendly websites and web applications.</h3>
+  <h3 align="center">I am a passionate developer capable of reinventing and innovating daily</h3>
 <p/>
 
 <br/>
@@ -13,25 +13,25 @@
 ## **🧑‍💻 About Me**
 
 <p align="justify">
-Hi, I am Ronny García. Current back-end developer freelance from Ecuador. I spend my time on personal projects and learning more about back-end and how to improve my skills. I am passionate about building accessible, user-friendly websites and web applications. My skills include HTML, CSS, Java, Python, GIT, Github, Netlify. However, I am constantly learning and am open to new technologies. If you think I would be a great fit for your team feel free to contact me so we can chat.</p>
+Hi, I am Adrián Litardo. Current back-end developer freelance from Ecuador. I am a proactive person and passionate about technology, always looking to keep up to date with the latest trends and tools in the field of programming. Possessing excellent analytical and technical skills and impeccable coding ability, I am able to execute sections of code as required without errors.I am able to effectively manage and prioritize my time and juggle different projects at the same time. If you think I would be a great fit for your team feel free to contact me so we can start work.</p>
 
-- 💼 Full Stack developer 
 
 - 🔭 I’m currently working on becoming a Full Stack Developer.
 
 - 📈 Design and management of databases, development of web pages and writer applications
 
-- 🌱 I’m currently learning **Django** and **Typescript**, and always learning **Java.**
+- 🌱 I’m currently learning **Angular** and **ARP.NET**, and always learning **Java**
+  
+- 🦅 Belonging to the low percentage of developers who have knowledge of swift
 
-- ❤️ My favorite languages are Java and Python, I like to experiment with the python opencv library to design new projects
+- ❤️ My favorite languages are Java , Swift and Python. I like to experiment with the Python opencv library to design new projects
 
-- 👯 I’m looking to collaborate on **Web Development projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 💬 Ask me about anything [here](https://github.com/rsgarcia0203/rsgarcia0203/issues)
 
-- 📫 How to reach me: **rsgarcia@espol.edu.ec**
+- 📫 How to contact me: **lalitard@espol.edu.ec**
 
 <br/>
 
