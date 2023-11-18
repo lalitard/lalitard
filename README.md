@@ -48,6 +48,7 @@ Hi, I am Adrián Litardo. Current back-end developer freelance from Ecuador. I a
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/13460/php.png" style="width:48px; height:48px"/> </a>
+  <a href="https://www.swift.org" target="_blank"> <img src="https://icons8.com/icon/24465/swift" style="width:48px; height:48px"/> </a>
     <a href="https://styled-components.com/" target="_blank"> <img src="https://styled-components.com/logo.png" style="width:48px; height:48px"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
 > <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
